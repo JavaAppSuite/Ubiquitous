@@ -18,4 +18,4 @@ The calculator was planned to have a custom parser generator, but never made it 
 The Text Editor is a simple editor, that simply saves a TXT file to a specified location and loads it and allows the user to modify parts of it and create new TXT files. **Currently haulted, and all focus is on Calculator debugging.**
    
 ## System Information
-The System Information app will gather the reported java system properties and display it to the user. ** Currently haulted to the last priority.**
+The System Information app will gather the reported java system properties and display it to the user. **Currently haulted to the last priority.**
