@@ -14,7 +14,7 @@ The default applications that we aim to develop to this release is:
 **DONE FOR UBIQUITOUS, PLEASE VIEW THE RELEASE TAB TO GET A SINGELTON JAR FILE OF CALCULATOR.**
    
 ## Text Editor
-The Text Editor is a simple editor, that simply saves a TXT file to a specified location and loads it and allows the user to modify parts of it and create new TXT files. **Currently haulted, and all focus is on Calculator debugging.**
+The Text Editor is a simple editor, that simply saves a TXT file to a specified location and loads it and allows the user to modify parts of it and create new TXT files. **IN ACTIVE DEVELOPMENT.**
    
 ## System Information
 The System Information app will gather the reported java system properties and display it to the user. **Currently haulted to the last priority.**
